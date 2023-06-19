@@ -3,8 +3,6 @@
 
 # OpenBMIChip
 
-## 
-
 The OpenBMIChip is an incredible piece of silicon chip, specifically designed to support the incredibly fascinating Brain-Machine Interface (BMI). 
 
  The chip has been innovatively designed to facilitate the seamless transfer of data, specifically the recording and analysis of EEG (electroencephalogram) data in real-time, with the aim of enabling health professionals to quickly and accurately diagnose neurological disorders, such as epilepsy and sleep apnea, and to develop targeted treatment plans for patients. Moreover, this compact and efficient technology has the potential to revolutionize the field of neuroscience by making it possible to conduct more comprehensive research on the brain and its functions, ultimately leading to a greater understanding of the human mind and the development of new treatments for neurological and mental health conditions.
@@ -16,6 +14,23 @@ RIOS Lab, a leading technology research lab, is developing the OpenBMIChip, a re
 As part of its commitment to the open-source community, RIOS Lab will make the OpenBMIChip project completely open-source. This means that anyone can access the code, contribute to the project, and even use the chip in their own products. RIOS Lab believes that by making the project open-source, it will encourage innovation and collaboration in the brain-computer interface space, leading to even more exciting and groundbreaking developments in the future.
 
 With the OpenBMIChip, RIOS Lab is aiming to democratize brain-computer interface technology, making it accessible to everyone. RIOS Lab  hopes to enable people from all walks of life to benefit from the incredible capabilities of brain-computer interface technology. So whether you're a researcher, a developer, or simply someone who is interested in the latest technology trends, the OpenBMIChip is sure to have something to offer you.
+
+## CPU Core
+
+![f0e13de36b6b05833113ab3527876620_hehecore2 0](https://github.com/riosmpw/OpenBMIChip/assets/100336131/f8770899-5279-444f-ab2a-9bc963d3cf9c)
+
+### GreenRio2.0
+ It supports RISC-V ICMA extension
+- It supports U S M mode
+- It's a double issue architecture
+- It supports scalar register renaming
+- It has a ROB to do in-order committment
+- When an exception or an interrupt happens, the ROB will be responsible of when to trigger flush
+- It supports dynamic branch prediction(gshare)
+- It support out-of-order execution
+- nonblocking cache
+- It implements mmu with 3 level page table in sv39 mode
+- cache coherence
 
 ## Main Reference
 
