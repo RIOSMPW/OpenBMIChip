@@ -9,6 +9,7 @@
 | Item                   | Type    | Link             | Comment |
 |------------------------|---------|------------------|---------|
 | google/skywater-pdk    | PDK     | [https://github.com/google/skywater-pdk](https://github.com/google/skywater-pdk)               |         |
+| GreenRio2.0            | CPU IP  | [https://gitlab.com/yihai.z/hehecore-2-0](https://gitlab.com/yihai.z/hehecore-2-0)             |         |
 
 
 
