@@ -1,4 +1,3 @@
-# OpenBMIChip
 ![image](https://github.com/riosmpw/OpenBMIChip/assets/100336131/4f9983fb-7a80-4919-8fa0-c90dcd38780b)
 
 # OpenBMIChip
