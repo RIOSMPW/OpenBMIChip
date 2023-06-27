@@ -19,6 +19,10 @@ With the OpenBMIChip, RIOS Lab is aiming to democratize brain-computer interface
 ![f0e13de36b6b05833113ab3527876620_hehecore2 0](https://github.com/riosmpw/OpenBMIChip/assets/100336131/f8770899-5279-444f-ab2a-9bc963d3cf9c)
 
 ### GreenRio2.0
+
+![greenrio](https://github.com/riosmpw/OpenBMIChip/assets/100336131/c89a7c8e-3785-4111-a414-7368aeee9249)
+
+
  It supports RISC-V ICMA extension
 - It supports U S M mode
 - It's a double issue architecture
