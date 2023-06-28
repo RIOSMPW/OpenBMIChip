@@ -14,6 +14,9 @@ As part of its commitment to the open-source community, RIOS Lab will make the O
 
 With the OpenBMIChip, RIOS Lab is aiming to democratize brain-computer interface technology, making it accessible to everyone. RIOS Lab  hopes to enable people from all walks of life to benefit from the incredible capabilities of brain-computer interface technology. So whether you're a researcher, a developer, or simply someone who is interested in the latest technology trends, the OpenBMIChip is sure to have something to offer you.
 
+![8e4b9e7a775c862aca7ed28f48873cff_D1D5IkDX0AwknfA_format=jpg name=4096x4096](https://github.com/riosmpw/OpenBMIChip/assets/100336131/5e85d825-cf10-46cd-8813-dbdcaec35ad7)
+
+
 ## CPU Core
 
 ![f0e13de36b6b05833113ab3527876620_hehecore2 0](https://github.com/riosmpw/OpenBMIChip/assets/100336131/f8770899-5279-444f-ab2a-9bc963d3cf9c)
